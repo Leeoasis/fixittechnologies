@@ -20,7 +20,7 @@ const Navbar = () => {
     : 'text-gray-300 hover:bg-gray-700 hover:text-white py-2 px-4 rounded-md');
 
   return (
-    <nav className="bg-orange-700 text-white">
+    <nav className="bg-emerald-800 text-white">
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         <div className="text-2xl font-bold">
           <a href="#" className="hover:text-gray-300">Fixit Technologies</a>
